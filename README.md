@@ -1,2 +1,2 @@
 # FuckYouTowny
-Remove Towny's stupid EULA message
+Remove Towny's EULA message
