@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+website: ${project.url}
+description: ${project.description}
+author: [JustMatt <matt@matthogan.co.uk>]
+depend: [ProtocolLib, PacketWrapper]
+
+main: ${project.groupId}.${project.artifactId}.${project.name}Plugin
